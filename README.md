@@ -1,1 +1,2 @@
-> NO LONGER MAINTAINED
+## Deprecation Notice
+This repository has been deprecated and is **not being maintained** as of December 2017. **It should not be used**. If you have any questions, please get in touch with the collaborators.
